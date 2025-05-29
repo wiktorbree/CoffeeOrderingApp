@@ -2,6 +2,9 @@
 
 A modern iOS application built with SwiftUI, used by café waiters to take customer orders with various customization options.
 
+![showcase](https://github.com/user-attachments/assets/cf5a3ede-fdb1-45a6-b208-7819b9b80d75)
+
+
 ## Features
 
 - Browse different coffee drinks
